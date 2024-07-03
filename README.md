@@ -30,7 +30,7 @@ This repo is used for recording, tracking, and benchmarking several recent visua
 If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/linhuixiao/Awesome-Visual-Grounding/pulls).
 We will add the missing papers to this repo as soon as possible.
 
-### 🔥Add Your Paper in our Repo and Survey!
+### 🔥 Add Your Paper in our Repo and Survey!
 
 - You are welcome to give us an issue or PR (pull request) for your open vocabulary learning work !
 
@@ -39,7 +39,7 @@ We will add the missing papers to this repo as soon as possible.
 [//]: # (- **Our survey will be updated in 2024.3.**)
 
 
-### 🔥New
+### 🔥 New
 
 [//]: # ([-] Our work is accepted by T-PAMI !!! 🔥🔥🔥)
 
@@ -48,7 +48,7 @@ We will add the missing papers to this repo as soon as possible.
 - We update GitHub to record the available paper by the end of **2024/7/30**.
 
 
-### 🔥Highlight!!
+### 🔥 Highlight!!
 
 - A comprehensive survey for Visual Grounding, including Referring Expression Comprehension and Phrase Grounding.
 
