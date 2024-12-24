@@ -59,6 +59,42 @@ We will add the missing papers to this repo as soon as possible.
 - We provide a list of future research insights.
 
 
+[https://github.com/TheShadow29/awesome-grounding](https://github.com/TheShadow29/awesome-grounding)
+
+[Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary)
+
+# Introduction
+
+
+
+# Summary of References
+
+## Fully Supervised Setting
+
+### A. Traditional CNN-based Methods
+
+### B. Transformer-based Methods
+
+
+
+
+| Year | Venue | Paper Title | Paper Link                                                                                                                                    | Code / Project |
+|------|-------| ---- |---------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| 2021 | ICCV   | J. Deng, Z. Yang, T. Chen, W. Zhou, and H. Li, “Transvg: End-to-end visual grounding with transformers,” in Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021, pp. 1769–1779.    | [paper](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) 
+|      |       |      |                                                                                                                                             |
+|      |       |      |                                                                                                                                             |
+
+
+### C. VLP-based Methods
+
+### D. Grounded Representation Learning
+
+### E. Grounding Multimodal LLMs
+
+
+
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=linhuixiao/Awesome-Visual-Grounding&type=Date)](https://star-history.com/#linhuixiao/Awesome-Visual-Grounding&Date)
