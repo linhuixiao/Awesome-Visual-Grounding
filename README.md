@@ -78,11 +78,11 @@ We will add the missing papers to this repo as soon as possible.
 
 
 
-| Year | Venue | Paper Title | Paper Link                                                                                                                                    | Code / Project |
-|------|-------| ---- |---------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| 2021 | ICCV   | J. Deng, Z. Yang, T. Chen, W. Zhou, and H. Li, “Transvg: End-to-end visual grounding with transformers,” in Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021, pp. 1769–1779.    | [paper](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) 
-|      |       |      |                                                                                                                                             |
-|      |       |      |                                                                                                                                             |
+| Year | Venue | Paper Title                                                                                                                                                                                                   | Paper Link                                                                                                                                    | Code / Project |
+|------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| 2021 | ICCV   | J. Deng, Z. Yang, T. Chen, W. Zhou, and H. Li, “**Transvg: End-to-end visual grounding with transformers**,” in Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021, pp. 1769–1779. | [paper](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) 
+|      |       |                                                                                                                                                                                                               |                                                                                                                                             |
+|      |       |                                                                                                                                                                                                               |                                                                                                                                             |
 
 
 ### C. VLP-based Methods
