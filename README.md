@@ -125,11 +125,13 @@ This content corresponds to the main text.
 
 [//]: # ([TOC])
 
+[//]: # (超链接的语法：默认":,."等符号直接忽略，空格“ ”用“-”代替)
+
 - [Introduction](#introduction)
 - [Summary of Contents](#summary-of-contents)
 - [1. Methods: A Survey](#1-Methods-A-Survey)
   - [1.1 Fully Supervised Setting](#11-Fully-Supervised-Setting)
-    - [A. Traditional CNN-based Methods](#semantic-segmentation)
+    - [A. Traditional CNN-based Methods](#A-Traditional-CNN-based-Methods)
     - [B. Traditional Transformer-based Methods](#instance-segmentation)
     - [C. VLP-based Transfer Methods](#panoptic-segmentation)
     - [D. Grounding-oriented Pre-training](#panoptic-segmentation)
