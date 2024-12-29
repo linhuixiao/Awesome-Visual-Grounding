@@ -472,7 +472,7 @@ This content corresponds to the main text.
 This survey took half a year to complete, and the process was laborious and burdensome.
 
 Building up this GitHub repository also required significant effort. We would like to thank the following individuals for their contributions 
-to completing this project: Baochen Xiong, Xianbing Yang, etc.
+to completing this project: Baochen Xiong, Xianbing Yang, ......., etc.
 
 # Contact
 Email: [xiaolinhui16@mails.ucas.ac.cn](xiaolinhui16@mails.ucas.ac.cn).
