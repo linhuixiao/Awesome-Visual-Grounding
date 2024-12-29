@@ -4,7 +4,7 @@
 <p align="center">
   <h1 align="center">Towards Visual Grounding: A Survey</h1>
   <p align="center">
-    <b> T-PAMI under review, 2024 </b>
+    <b> TPAMI under review, 2024 </b>
     <br />
     <a href="https://scholar.google.com.hk/citations?user=4rTE4ogAAAAJ&hl=zh-CN&oi=sra"><strong> Linhui Xiao </strong></a>
     ·
@@ -22,10 +22,10 @@
       <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
 
-[//]: # (    <a href='https://ieeexplore.ieee.org/document/10420487'>)
-[//]: # (      <img src='https://img.shields.io/badge/TPAMI-PDF-blue?style=flat&logo=IEEE&logoColor=green' alt='TPAMI PDF'>)
-[//]: # (    </a>)
-[//]: # (  </p>)
+[//]: # "    <a href='https://ieeexplore.ieee.org/document/10420487'>"
+[//]: # "      <img src='https://img.shields.io/badge/TPAMI-PDF-blue?style=flat&logo=IEEE&logoColor=green' alt='TPAMI PDF'>"
+[//]: # "    </a>"
+[//]: # "  </p>"
 <br />
 
 
@@ -38,24 +38,25 @@
 
 **<p align="center"> A Decade of Visual Grounding  </p>**
 
-This repo is used for recording, tracking, and benchmarking several recent visual grounding methods to supplement our [survey]().  
-If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/linhuixiao/Awesome-Visual-Grounding/pulls).
-We will add the missing papers to this repo as soon as possible.
+This repo is used for recording, tracking, and benchmarking several recent visual grounding methods to supplement our [survey](). 
 
 ### 🔥 Add Your Paper in our Repo and Survey!
 
-- You are welcome to give us an issue or PR (pull request) for your open vocabulary learning work !
+- If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/linhuixiao/Awesome-Visual-Grounding/pulls).
+We will add the missing papers to this repo as soon as possible.
 
-- Note that: Due to the huge paper in Arxiv, we are sorry to cover all in our survey. You can directly present a PR into this repo and we will record it for next version update of our survey.
+- You are welcome to give us an issue or PR (pull request) for your visual grounding related works!
 
-[//]: # (- **Our survey will be updated in 2024.3.**)
+- **Note that:** Due to the huge paper in Arxiv, we are sorry to cover all in our survey. You can directly present a PR into this repo and we will record it for next version update of our survey.
+
+
 
 
 ### 🔥 New
 
+[//]: # "- [ ] Next version of our survey will be updated in:."
 
-
-- We made our paper public and created this repository on **December 26, 2024**.
+- 🔥 We made our paper public and created this repository on **December 26, 2024**.
 
 
 
@@ -63,24 +64,22 @@ We will add the missing papers to this repo as soon as possible.
 
 - A comprehensive survey for Visual Grounding, including Referring Expression Comprehension and Phrase Grounding.
 
-- It includes the most recently Grounding Multi-modal LLMs and VLP-based grounding transfer works. 
+- It includes the most recently Grounding Multi-modal LLMs, Generalized Visual Grounding, and VLP-based grounding transfer works. 
 
 - We list detailed results for the most representative works and give a fairer and clearer comparison of different approaches.
 
 - We provide a list of future research insights.
 
 
-[https://github.com/TheShadow29/awesome-grounding](https://github.com/TheShadow29/awesome-grounding)
 
-[Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary)
 
 # Introduction
 
-we are the first survey in the past five years to systematically track and summarize the development of visual 
-grounding over the last decade. By extracting common technical details, this review encompasses the most representative
+**we are the first survey in the past five years to systematically track and summarize the development of visual 
+grounding over the last decade.** By extracting common technical details, this review encompasses the most representative
 work in each subtopic. 
 
-This survey is also currently the most comprehensive review in the field of visual grounding. We aim for this article 
+**This survey is also currently the most comprehensive review in the field of visual grounding.** We aim for this article 
 to serve as a valuable resource not only for beginners seeking an introduction to grounding but also for researchers 
 with an established foundation, enabling them to navigate and stay up-to-date with the latest advancements.
 
@@ -104,9 +103,6 @@ with an established foundation, enabling them to navigate and stay up-to-date wi
 
 ## Citation
 
-It should be noted that, due to the typesetting restrictions of the journal, there are differences in the 
-typesetting between the review version and Arxiv version.
-
 If you find our work helpful for your research, please consider citing the following BibTeX entry.   
 
 ```bibtex
@@ -119,15 +115,21 @@ If you find our work helpful for your research, please consider citing the follo
       primaryClass={cs.CV}
 }
 ```
-
+It should be noted that, due to the typesetting restrictions of the journal, there are differences in the 
+typesetting between the Arxiv version and review version.
 
 **The following will be the relevant grounding papers and associated code links in this paper:**
 
 # Summary of Contents
 This content corresponds to the main text.
+
+[TOC]
+
+
+
 - [Introduction](#introduction)
 - [Summary of Contents](#summary-of-contents)
-- [1. Methods: A Survey](#methods-a-survey)
+- [1. Methods: A Survey](#1.-Methods:-A-Survey)
   - [1.1 Fully Supervised Setting](#open-vocabulary-object-detection)
     - [A. Traditional CNN-based Methods](#semantic-segmentation)
     - [B. Traditional Transformer-based Methods](#instance-segmentation)
@@ -165,7 +167,7 @@ This content corresponds to the main text.
 - [Contact](#contact)
 
 
-一些简称的统一：ACM MM, NeurIPS
+
 
 # 1. Methods: A Survey
 
@@ -175,21 +177,54 @@ This content corresponds to the main text.
 
 ### A. Traditional CNN-based Methods
 
+| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                                                                           | Code / Project                                             |
+|------|-------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 2016 | CVPR  | NMI       | [**Generation and comprehension of unambiguous object descriptions**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | [Code](e https://github.com/mjhucla/Google_Refexp_toolbox) | 
+|      |       |           |                                                                                                                                                                                    |                                                            |
+|      |       |           |                                                                                                                                                                                    |                                                            |
+
+
+
 ### B. Transformer-based Methods
 
 
-| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                                                                                         | Code / Project |
-|------|-------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| 2021 | ICCV   | TransVG  | [**Transvg: End-to-end visual grounding with transformers**](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) 
-|      |       |           |                                                                                                                                                                                                  |
-|      |       |           |                                                                                                                                                                                                  |
-
+| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                                                                                         | Code / Project                                 |
+|------|-------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| 2021 | ICCV  | TransVG   | [**Transvg: End-to-end visual grounding with transformers**](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) |
+|      |       |           |                                                                                                                                                                                                  |                                                |
+|      |       |           |                                                                                                                                                                                                  |                                                |
 
 ### C. VLP-based Methods
 
+| Year | Venue | Work Name | Paper Title / Paper Link                                                                                     | Code / Project                                |
+|------|-------|-----------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| 2023 | TMM   | CLIP-VG   | [**CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding**](https://arxiv.org/pdf/2305.08685) | [Code](https://github.com/linhuixiao/CLIP-VG) |
+|      |       |           |                                                                                                              |                                               |
+|      |       |           |                                                                                                              |                                               |
+
 ### D. Grounding-oriented Pre-training
 
+| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                         | Code / Project                             |
+|------|-------|-----------|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| 2021 | ICCV  | MDETR     | [**Transvg: End-to-end visual grounding with transformers**](Mdetr-modulated detection for end-to-end multi-modal understanding) | [Code](https://github.com/ashkamath/mdetr) |
+|      |       |           |                                                                                                                                  |                                            |
+|      |       |           |                                                                                                                                  |                                            |
+
 ### E. Grounding Multimodal LLMs
+
+| Year | Venue | Work Name | Paper Title / Paper Link                                                                               | Code / Project                            |
+|------|-------|-----------|--------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| 2023 | Arxiv | Shikra    | [**Shikra: Unleashing multimodal llm's referential dialogue magic**](https://arxiv.org/pdf/2306.15195) | [Code](https://github.com/shikras/shikra) | 
+|      |       |           |                                                                                                        |                                           |
+|      |       |           |                                                                                                        |                                           |
+
+
+## 1.2 Weakly Supervised Setting
+
+
+[https://github.com/TheShadow29/awesome-grounding](https://github.com/TheShadow29/awesome-grounding)
+
+[Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary)
 
 
 # Acknowledgement
@@ -207,7 +242,6 @@ Any kind discussions are welcomed!
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=linhuixiao/Awesome-Visual-Grounding&type=Date)](https://star-history.com/#linhuixiao/Awesome-Visual-Grounding&Date)
-
 
 
 
