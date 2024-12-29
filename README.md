@@ -16,7 +16,6 @@
     ·
     <a href="https://scholar.google.com.hk/citations?user=hI9NRDkAAAAJ&hl=zh-CN"><strong>Changsheng Xu</strong></a>
   </p>
-
   <p align="center">
     <a href='https://arxiv.org/'>
       <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
@@ -27,8 +26,6 @@
 [//]: # "    </a>"
 [//]: # "  </p>"
 <br />
-
-
 <p align="center"> <img src='figs/illustration.jpg' align="center" width="60%"> </p>
 
 **<p align="center"> An Illustration of Visual Grounding  </p>**
