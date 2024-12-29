@@ -123,14 +123,12 @@ typesetting between the Arxiv version and review version.
 # Summary of Contents
 This content corresponds to the main text.
 
-[TOC]
-
-
+[//]: # ([TOC])
 
 - [Introduction](#introduction)
 - [Summary of Contents](#summary-of-contents)
 - [1. Methods: A Survey](#1-Methods-A-Survey)
-  - [1.1 Fully Supervised Setting](#open-vocabulary-object-detection)
+  - [1.1 Fully Supervised Setting](#1.1 Fully Supervised Setting)
     - [A. Traditional CNN-based Methods](#semantic-segmentation)
     - [B. Traditional Transformer-based Methods](#instance-segmentation)
     - [C. VLP-based Transfer Methods](#panoptic-segmentation)
