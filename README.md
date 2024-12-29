@@ -177,22 +177,22 @@ This content corresponds to the main text.
 
 ### A. Traditional CNN-based Methods
 
-| Year | Venue | Name | Paper Title / Paper Link                                                                                                                                                           | Code / Project                                             |
-|------|-------|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| 2016 | CVPR  | NMI  | [**Generation and comprehension of unambiguous object descriptions**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | [Code](e https://github.com/mjhucla/Google_Refexp_toolbox) | 
-|      |       |      |                                                                                                                                                                                    |                                                            |
-|      |       |      |                                                                                                                                                                                    |                                                            |
+| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                                                                           | Code / Project                                           |
+|------|-------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| 2016 | CVPR  | NMI       | [**Generation and comprehension of unambiguous object descriptions**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | [Code](https://github.com/mjhucla/Google_Refexp_toolbox) | 
+|      |       |           |                                                                                                                                                                                    |                                                          |
+|      |       |           |                                                                                                                                                                                    |                                                          |
 
 
 
 ### B. Transformer-based Methods
 
 
-| Year | Venue | Name    | Paper Title / Paper Link                                                                                                                                                                         | Code / Project                                 |
-|------|-------|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| 2021 | ICCV  | TransVG | [**Transvg: End-to-end visual grounding with transformers**](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) |
-|      |       |         |                                                                                                                                                                                                  |                                                |
-|      |       |         |                                                                                                                                                                                                  |                                                |
+| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                                                                                         | Code / Project                                 |
+|------|-------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| 2021 | ICCV  | TransVG   | [**Transvg: End-to-end visual grounding with transformers**](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) |
+|      |       |           |                                                                                                                                                                                                  |                                                |
+|      |       |           |                                                                                                                                                                                                  |                                                |
 
 ### C. VLP-based Methods
 
