@@ -20,12 +20,13 @@
     <a href='https://arxiv.org/'>
       <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
+<br />
 
 [//]: # "    <a href='https://ieeexplore.ieee.org/document/10420487'>"
 [//]: # "      <img src='https://img.shields.io/badge/TPAMI-PDF-blue?style=flat&logo=IEEE&logoColor=green' alt='TPAMI PDF'>"
 [//]: # "    </a>"
 [//]: # "  </p>"
-<br />
+
 <p align="center"> <img src='figs/illustration.jpg' align="center" width="60%"> </p>
 
 **<p align="center"> An Illustration of Visual Grounding  </p>**
