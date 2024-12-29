@@ -38,7 +38,7 @@
 
 **<p align="center"> A Decade of Visual Grounding  </p>**
 
-This repo is used for recording, tracking, and benchmarking several recent visual grounding methods to supplement our [survey](). 
+This repo is used for recording, tracking, and benchmarking several recent visual grounding methods to supplement our [Grounding Survey](). 
 
 ### 🔥 Add Your Paper in our Repo and Survey!
 
@@ -56,7 +56,7 @@ We will add the missing papers to this repo as soon as possible.
 
 [//]: # "- [ ] Next version of our survey will be updated in:."
 
-- 🔥 We made our paper public and created this repository on **December 26, 2024**.
+- 🔥 **We made our paper public and created this repository on** **December 26, 2024**.
 
 
 
@@ -64,7 +64,7 @@ We will add the missing papers to this repo as soon as possible.
 
 - A comprehensive survey for Visual Grounding, including Referring Expression Comprehension and Phrase Grounding.
 
-- It includes the most recently Grounding Multi-modal LLMs, Generalized Visual Grounding, and VLP-based grounding transfer works. 
+- It includes the newly concepts, such as Grounding Multi-modal LLMs, Generalized Visual Grounding, and VLP-based grounding transfer works. 
 
 - We list detailed results for the most representative works and give a fairer and clearer comparison of different approaches.
 
@@ -115,7 +115,7 @@ If you find our work helpful for your research, please consider citing the follo
       primaryClass={cs.CV}
 }
 ```
-It should be noted that, due to the typesetting restrictions of the journal, there are differences in the 
+**It should be noted that**, due to the typesetting restrictions of the journal, there are small differences in the 
 typesetting between the Arxiv version and review version.
 
 **The following will be the relevant grounding papers and associated code links in this paper:**
@@ -123,9 +123,8 @@ typesetting between the Arxiv version and review version.
 # Summary of Contents
 This content corresponds to the main text.
 
-[//]: # "[TOC]"
 
-[//]: # "超链接的语法：默认":,."等符号直接忽略，空格“ ”用“-”代替，“-”继续用“-”"
+[//]: # "超链接的语法：默认:,.等符号直接忽略，空格“ ”用“-”代替，“-”继续用“-”"
 
 - [Introduction](#introduction)
 - [Summary of Contents](#summary-of-contents)
@@ -180,60 +179,60 @@ This content corresponds to the main text.
 
 ### A. Traditional CNN-based Methods
 
-| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                                                                           | Code / Project                                             |
-|------|-------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| 2016 | CVPR  | NMI       | [**Generation and comprehension of unambiguous object descriptions**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | [Code](e https://github.com/mjhucla/Google_Refexp_toolbox) | 
-|      |       |           |                                                                                                                                                                                    |                                                            |
-|      |       |           |                                                                                                                                                                                    |                                                            |
+| Year | Venue | Name | Paper Title / Paper Link                                                                                                                                                           | Code / Project                                             |
+|------|-------|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 2016 | CVPR  | NMI  | [**Generation and comprehension of unambiguous object descriptions**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | [Code](e https://github.com/mjhucla/Google_Refexp_toolbox) | 
+|      |       |      |                                                                                                                                                                                    |                                                            |
+|      |       |      |                                                                                                                                                                                    |                                                            |
 
 
 
 ### B. Transformer-based Methods
 
 
-| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                                                                                         | Code / Project                                 |
-|------|-------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| 2021 | ICCV  | TransVG   | [**Transvg: End-to-end visual grounding with transformers**](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) |
-|      |       |           |                                                                                                                                                                                                  |                                                |
-|      |       |           |                                                                                                                                                                                                  |                                                |
+| Year | Venue | Name    | Paper Title / Paper Link                                                                                                                                                                         | Code / Project                                 |
+|------|-------|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| 2021 | ICCV  | TransVG | [**Transvg: End-to-end visual grounding with transformers**](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) |
+|      |       |         |                                                                                                                                                                                                  |                                                |
+|      |       |         |                                                                                                                                                                                                  |                                                |
 
 ### C. VLP-based Methods
 
-| Year | Venue | Work Name | Paper Title / Paper Link                                                                                     | Code / Project                                |
-|------|-------|-----------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| 2023 | TMM   | CLIP-VG   | [**CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding**](https://arxiv.org/pdf/2305.08685) | [Code](https://github.com/linhuixiao/CLIP-VG) |
-|      |       |           |                                                                                                              |                                               |
-|      |       |           |                                                                                                              |                                               |
+| Year | Venue | Name    | Paper Title / Paper Link                                                                                     | Code / Project                                |
+|------|-------|---------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| 2023 | TMM   | CLIP-VG | [**CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding**](https://arxiv.org/pdf/2305.08685) | [Code](https://github.com/linhuixiao/CLIP-VG) |
+|      |       |         |                                                                                                              |                                               |
+|      |       |         |                                                                                                              |                                               |
 
 ### D. Grounding-oriented Pre-training
 
-| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                         | Code / Project                             |
-|------|-------|-----------|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| 2021 | ICCV  | MDETR     | [**Transvg: End-to-end visual grounding with transformers**](Mdetr-modulated detection for end-to-end multi-modal understanding) | [Code](https://github.com/ashkamath/mdetr) |
-|      |       |           |                                                                                                                                  |                                            |
-|      |       |           |                                                                                                                                  |                                            |
+| Year | Venue | Name  | Paper Title / Paper Link                                                                                                         | Code / Project                             |
+|------|-------|-------|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| 2021 | ICCV  | MDETR | [**Transvg: End-to-end visual grounding with transformers**](Mdetr-modulated detection for end-to-end multi-modal understanding) | [Code](https://github.com/ashkamath/mdetr) |
+|      |       |       |                                                                                                                                  |                                            |
+|      |       |       |                                                                                                                                  |                                            |
 
 ### E. Grounding Multimodal LLMs
 
-| Year | Venue | Work Name | Paper Title / Paper Link                                                                               | Code / Project                            |
-|------|-------|-----------|--------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| 2023 | Arxiv | Shikra    | [**Shikra: Unleashing multimodal llm's referential dialogue magic**](https://arxiv.org/pdf/2306.15195) | [Code](https://github.com/shikras/shikra) | 
-|      |       |           |                                                                                                        |                                           |
-|      |       |           |                                                                                                        |                                           |
+| Year | Venue | Name   | Paper Title / Paper Link                                                                               | Code / Project                            |
+|------|-------|--------|--------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| 2023 | Arxiv | Shikra | [**Shikra: Unleashing multimodal llm's referential dialogue magic**](https://arxiv.org/pdf/2306.15195) | [Code](https://github.com/shikras/shikra) | 
+|      |       |        |                                                                                                        |                                           |
+|      |       |        |                                                                                                        |                                           |
 
 
 ## 1.2 Weakly Supervised Setting
 
-| Year | Venue | Work Name | Paper Title / Paper Link                                                                     | Code / Project |
-|------|-------|-----------|----------------------------------------------------------------------------------------------|----------------|
-| 2016 | ECCV  | GroundR   | [Grounding of textual phrases in images by reconstruction](https://arxiv.org/pdf/1511.03745) | N/A            | 
-|      |       |           |                                                                                              |                |
-|      |       |           |                                                                                              |                |
+| Year | Venue | Name    | Paper Title / Paper Link                                                                     | Code / Project |
+|------|-------|---------|----------------------------------------------------------------------------------------------|----------------|
+| 2016 | ECCV  | GroundR | [Grounding of textual phrases in images by reconstruction](https://arxiv.org/pdf/1511.03745) | N/A            | 
+|      |       |         |                                                                                              |                |
+|      |       |         |                                                                                              |                |
 
 
 ## 1.2 Semi-supervised Setting
 
-| Year | Venue  | Work Name  | Paper Title / Paper Link                                                                                                                           | Code / Project |
+| Year | Venue  | Name       | Paper Title / Paper Link                                                                                                                           | Code / Project |
 |------|--------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
 | 2023 | ICASSP | PQG-Distil | [Pseudo-Query Generation For Semi-Supervised Visual Grounding With Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10095558) | N/A            | 
 |      |        |            |                                                                                                                                                    |                |
@@ -242,156 +241,156 @@ This content corresponds to the main text.
 
 ## 1.3 Unsupervised Setting
 
-| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                                                                                                              | Code / Project                                 |
-|------|-------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| 2022 | CVPR  | Pseudo-Q  | [Pseudo-q: Generating pseudo language queries for visual grounding](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Pseudo-Q_Generating_Pseudo_Language_Queries_for_Visual_Grounding_CVPR_2022_paper.pdf) | [Code](https://github.com/LeapLabTHU/Pseudo-Q) | 
-|      |       |           |                                                                                                                                                                                                                       |                                                |
-|      |       |           |                                                                                                                                                                                                                       |                                                |
+| Year | Venue | Name     | Paper Title / Paper Link                                                                                                                                                                                              | Code / Project                                 |
+|------|-------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| 2022 | CVPR  | Pseudo-Q | [Pseudo-q: Generating pseudo language queries for visual grounding](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Pseudo-Q_Generating_Pseudo_Language_Queries_for_Visual_Grounding_CVPR_2022_paper.pdf) | [Code](https://github.com/LeapLabTHU/Pseudo-Q) | 
+|      |       |          |                                                                                                                                                                                                                       |                                                |
+|      |       |          |                                                                                                                                                                                                                       |                                                |
 
 
 ## 1.4 Zero-shot Setting
 
-| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                                                                                                      | Code / Project                                        |
-|------|-------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| 2019 | ICCV  | ZSGNet    | [Zero-shot grounding of objects from natural language queries](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sadhu_Zero-Shot_Grounding_of_Objects_From_Natural_Language_Queries_ICCV_2019_paper.pdf) | [Code](https://github.com/TheShadow29/zsgnet-pytorch) |
-| 2022 | ACL   | ReCLIP    | [Reclip: A strong zero-shot baseline for referring expression comprehension](https://arxiv.org/pdf/2204.05991)                                                                                                | [Code](https://www.github.com/allenai/reclip)         | 
-|      |       |           |                                                                                                                                                                                                               |                                                       |
-|      |       |           |                                                                                                                                                                                                               |                                                       |
+| Year | Venue | Name   | Paper Title / Paper Link                                                                                                                                                                                      | Code / Project                                        |
+|------|-------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| 2019 | ICCV  | ZSGNet | [Zero-shot grounding of objects from natural language queries](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sadhu_Zero-Shot_Grounding_of_Objects_From_Natural_Language_Queries_ICCV_2019_paper.pdf) | [Code](https://github.com/TheShadow29/zsgnet-pytorch) |
+| 2022 | ACL   | ReCLIP | [Reclip: A strong zero-shot baseline for referring expression comprehension](https://arxiv.org/pdf/2204.05991)                                                                                                | [Code](https://www.github.com/allenai/reclip)         | 
+|      |       |        |                                                                                                                                                                                                               |                                                       |
+|      |       |        |                                                                                                                                                                                                               |                                                       |
 
 
 ## 1.5 Multi-task Setting
 
 ### A. REC with REG Multi-task Setting
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 ### B. REC with REG Multi-task Setting
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 ### C. Other Multi-task Setting
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 ## 1.6 Generalized Visual Grounding
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 # 2. Advanced Topics
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2021 | Arxiv | RefTR     | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name  | Paper Title / Paper Link | Code / Project |
+|------|-------|-------|--------------------------|----------------|
+| 2021 | Arxiv | RefTR | []()                     | [Code]()       | 
+|      |       |       |                          |                |
+|      |       |       |                          |                |
 
 
 ## 2.1 NLP Language Structure Parsing
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 ## 2.2 Spatial Relation and Graph Networks
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 ## 2.3 Modular Grounding
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 # 3. Applications
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 ## 3.1 Grounded Object Detection
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 ## 3.2 Referring Counting
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 ## 3.3 Remote Sensing Visual Grounding
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 ## 3.4 Medical Visual Grounding
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 ## 3.5 3D Visual Grounding
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 ## 3.6 Video Object Grounding
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 ## 3.7 Robotic and Multimodal Agent Applications
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 
@@ -399,71 +398,71 @@ This content corresponds to the main text.
 
 ## 3.1 The Five Datasets for Classical Visual Grounding
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 ## 3.2 The Other Datasets for Classical Visual Grounding
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 ## 3.3 Dataset for the Newly Curated Scenarios
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 ### A. Dataset for Generalized Visual Grounding
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 ### B. Datasets and Benchmarks for GMLLMs
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 ### C. Dataset for Other Newly Curated Scenarios
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 # 5. Challenges And Outlook
 
-| Year | Venue | Work Name | Paper Title / Paper Link | Code / Project |
-|------|-------|-----------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra    | []()                     | [Code]()       | 
-|      |       |           |                          |                |
-|      |       |           |                          |                |
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+|      |       |        |                          |                |
+|      |       |        |                          |                |
 
 
 # 6. Other Valuable Survey and Project
 
-| Year | Venue  | Work Name                                                    | Paper Title / Paper Link                                     | Code / Project                                               |
-| ---- | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2021 | Github | [awesome-grounding](https://github.com/TheShadow29/awesome-grounding) | N/A                                                          | [https://github.com/TheShadow29/awesome-grounding](https://github.com/TheShadow29/awesome-grounding) |
-| 2023 | TPAMI  | [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) | [**Towards Open Vocabulary Learning: A Survey**](https://arxiv.org/abs/2306.15880) | [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) |
+| Year | Venue  | Name                                                                             | Paper Title / Paper Link                                                           | Code / Project                                                                                       |
+|------|--------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| 2021 | Github | [awesome-grounding](https://github.com/TheShadow29/awesome-grounding)            | N/A                                                                                | [https://github.com/TheShadow29/awesome-grounding](https://github.com/TheShadow29/awesome-grounding) |
+| 2023 | TPAMI  | [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) | [**Towards Open Vocabulary Learning: A Survey**](https://arxiv.org/abs/2306.15880) | [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary)                     |
 
 
 
