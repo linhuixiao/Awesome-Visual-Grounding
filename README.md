@@ -129,7 +129,7 @@ This content corresponds to the main text.
 
 - [Introduction](#introduction)
 - [Summary of Contents](#summary-of-contents)
-- [1. Methods: A Survey](#1.-Methods:-A-Survey)
+- [1. Methods: A Survey](#1-Methods-A-Survey)
   - [1.1 Fully Supervised Setting](#open-vocabulary-object-detection)
     - [A. Traditional CNN-based Methods](#semantic-segmentation)
     - [B. Traditional Transformer-based Methods](#instance-segmentation)
