@@ -457,11 +457,11 @@ This content corresponds to the main text.
 
 # 6. Other Valuable Survey and Project
 
-| Year | Venue  | Name                                                                             | Paper Title / Paper Link                                                           | Code / Project                                                                                       |
-|------|--------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| 2021 | Github | [awesome-grounding](https://github.com/TheShadow29/awesome-grounding)            | N/A                                                                                | [https://github.com/TheShadow29/awesome-grounding](https://github.com/TheShadow29/awesome-grounding) |
-| 2023 | TPAMI  | [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) | [**Towards Open Vocabulary Learning: A Survey**](https://arxiv.org/abs/2306.15880) | [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary)                     |
-
+| Year | Venue  | Name                                                                                                    | Paper Title / Paper Link                                                           | Code / Project                                                                                          |
+|------|--------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 2021 | Github | [awesome-grounding](https://github.com/TheShadow29/awesome-grounding)                                   | N/A                                                                                | [https://github.com/TheShadow29/awesome-grounding](https://github.com/TheShadow29/awesome-grounding)    |
+| 2023 | TPAMI  | [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary)                        | [**Towards Open Vocabulary Learning: A Survey**](https://arxiv.org/abs/2306.15880) | [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary)                        |
+| 2024 | Github | [awesome-described-object-detection](https://github.com/Charles-Xie/awesome-described-object-detection) | N/A                                                                                | [awesome-described-object-detection](https://github.com/Charles-Xie/awesome-described-object-detection) |
 
 
 
