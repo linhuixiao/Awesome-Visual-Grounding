@@ -206,7 +206,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name  | Paper Title / Paper Link                                                                                                         | Code / Project                             |
 |------|-------|-------|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| 2021 | ICCV  | MDETR | [**Transvg: End-to-end visual grounding with transformers**](Mdetr-modulated detection for end-to-end multi-modal understanding) | [Code](https://github.com/ashkamath/mdetr) |
+| 2021 | ICCV  | MDETR | [**Mdetr-modulated detection for end-to-end multi-modal understanding**](http://openaccess.thecvf.com/content/ICCV2021/papers/Kamath_MDETR_-_Modulated_Detection_for_End-to-End_Multi-Modal_Understanding_ICCV_2021_paper.pdf) | [Code](https://github.com/ashkamath/mdetr) |
 |      |       |       |                                                                                                                                  |                                            |
 |      |       |       |                                                                                                                                  |                                            |
 
