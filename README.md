@@ -173,6 +173,7 @@ This content corresponds to the main text.
 
 
 
+
 ## 1.1 Fully Supervised Setting
 
 ### A. Traditional CNN-based Methods
@@ -465,7 +466,7 @@ This content corresponds to the main text.
 
 
 
-# Acknowledgement
+# Acknowledgment
 
 This survey took half a year to complete, and the process was laborious and burdensome.
 
