@@ -17,7 +17,7 @@
     <a href="https://scholar.google.com.hk/citations?user=hI9NRDkAAAAJ&hl=zh-CN"><strong>Changsheng Xu</strong></a>
   </p>
   <p align="center">
-    <a href='https://arxiv.org/'>
+    <a href='https://arxiv.org/abs/2412.20206'>
       <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
 <br />
@@ -34,9 +34,9 @@
 
 <p align="center"> <img src='figs/development_trends_h.jpg' align="center" width="100%"> </p>
 
-**<p align="center"> A Decade of Visual Grounding  </p>**
+**<p align="center"> A Decade of Visual Grounding </p>**
 
-This repo is used for recording, tracking, and benchmarking several recent visual grounding methods to supplement our [Grounding Survey](). 
+This repo is used for recording, tracking, and benchmarking several recent visual grounding methods to supplement our [Grounding Survey](https://arxiv.org/pdf/2412.20206). 
 
 ### 🔥 Add Your Paper in our Repo and Survey!
 
@@ -67,7 +67,6 @@ We will add the missing papers to this repo as soon as possible.
 - We list detailed results for the most representative works and give a fairer and clearer comparison of different approaches.
 
 - We provide a list of future research insights.
-
 
 
 
@@ -104,13 +103,14 @@ with an established foundation, enabling them to navigate and stay up-to-date wi
 If you find our work helpful for your research, please consider citing the following BibTeX entry.   
 
 ```bibtex
-@article{xiao2024hivg,
-      title={HiVG: Hierarchical Multimodal Fine-grained Modulation for Visual Grounding}, 
-      author={Linhui Xiao and Xiaoshan Yang and Fang Peng and Yaowei Wang and Changsheng Xu},
+@misc{xiao2024visualgroundingsurvey,
+      title={Towards Visual Grounding: A Survey}, 
+      author={Linhui Xiao and Xiaoshan Yang and Xiangyuan Lan and Yaowei Wang and Changsheng Xu},
       year={2024},
-      eprint={2404.13400},
+      eprint={2412.20206},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.20206}, 
 }
 ```
 **It should be noted that**, due to the typesetting restrictions of the journal, there are small differences in the 
@@ -178,11 +178,11 @@ This content corresponds to the main text.
 
 ### A. Traditional CNN-based Methods
 
-| Year | Venue | Work Name | Paper Title / Paper Link                                                                                                                                                           | Code / Project                                           |
-|------|-------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| 2016 | CVPR  | NMI       | [**Generation and comprehension of unambiguous object descriptions**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | [Code](https://github.com/mjhucla/Google_Refexp_toolbox) | 
-|      |       |           |                                                                                                                                                                                    |                                                          |
-|      |       |           |                                                                                                                                                                                    |                                                          |
+| Year | Venue | Work Name | Paper Title / Paper Link                                     | Code / Project                                           |
+| ---- | ----- | --------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| 2016 | CVPR  | NMI       | [**Generation and comprehension of unambiguous object descriptions**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | [Code](https://github.com/mjhucla/Google_Refexp_toolbox) |
+|      |       |           |                                                              | Project                                                  |
+|      |       |           |                                                              |                                                          |
 
 
 
@@ -207,7 +207,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name  | Paper Title / Paper Link                                                                                                         | Code / Project                             |
 |------|-------|-------|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| 2021 | ICCV  | MDETR | [**Mdetr-modulated detection for end-to-end multi-modal understanding**](http://openaccess.thecvf.com/content/ICCV2021/papers/Kamath_MDETR_-_Modulated_Detection_for_End-to-End_Multi-Modal_Understanding_ICCV_2021_paper.pdf) | [Code](https://github.com/ashkamath/mdetr) |
+| 2021 | ICCV  | MDETR | [**Transvg: End-to-end visual grounding with transformers**](Mdetr-modulated detection for end-to-end multi-modal understanding) | [Code](https://github.com/ashkamath/mdetr) |
 |      |       |       |                                                                                                                                  |                                            |
 |      |       |       |                                                                                                                                  |                                            |
 
@@ -466,7 +466,7 @@ This content corresponds to the main text.
 
 
 
-# Acknowledgment
+# Acknowledgement
 
 This survey took half a year to complete, and the process was laborious and burdensome.
 
