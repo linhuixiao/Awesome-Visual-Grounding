@@ -223,6 +223,7 @@ This content corresponds to the main text.
 |   2020   |    NeurIPS   |    GPT-3    |    [**Language Models are Few-Shot Learners**](https://papers.nips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)                                                                                                    |   N/A                                        |
 |   2024   |    ICLR   |    Ferret    |    [**Ferret: Refer And Ground Anything Anywhere At Any Granularity**](https://openreview.net/pdf?id=2msbbX3ydD)                                                                                                    |   [Code](https://github.com/apple/ml-ferret)                                        |
 |   2024   |    CVPR   |    LION    |    [**LION: Empowering Multimodal Large Language Model With Dual-Level Visual Knowledge**](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_LION_Empowering_Multimodal_Large_Language_Model_with_Dual-Level_Visual_Knowledge_CVPR_2024_paper.pdf)                                                                                                    |   [Code](https://github.com/JiuTian-VL/JiuTian-LION)                                        |
+|   2022   |    ECCV   |    YORO    |    [**YORO - Lightweight End to End Visual Grounding**](https://arxiv.org/pdf/2211.07912)                                                                                                    |   [Code](https://github.com/chihhuiho/yoro)                                        |
 
 
 ## 1.2 Weakly Supervised Setting
