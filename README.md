@@ -182,7 +182,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Work Name | Paper Title / Paper Link                                     | Code / Project                                           |
 | ---- | ----- | --------- | ------------------------------------------------------------ | -------------------------------------------------------- |
-| 2016 | CVPR  | NMI       | [**Generation and comprehension of unambiguous object descriptions**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | [Code](https://github.com/mjhucla/Google_Refexp_toolbox) |
+| 2016 | CVPR  | NMI       | [**Generation and Comprehension of Unambiguous Object Descriptions**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | [Code](https://github.com/mjhucla/Google_Refexp_toolbox) |
 |      |       |           |                                                              | Project                                                  |
 |      |       |           |                                                              |                                                          |
 
@@ -193,7 +193,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Work Name | Paper Title / Paper Link                                                                                                                                                                         | Code / Project                                 |
 |------|-------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| 2021 | ICCV  | TransVG   | [**Transvg: End-to-end visual grounding with transformers**](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) |
+| 2021 | ICCV  | TransVG   | [**Transvg: End-to-end Visual Grounding with Transformers**](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) |
 |      |       |           |                                                                                                                                                                                                  |                                                |
 
 ### C. VLP-based Methods
@@ -209,7 +209,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name  | Paper Title / Paper Link                                                                                                         | Code / Project                             |
 |------|-------|-------|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| 2021 | ICCV  | MDETR | [**Transvg: End-to-end visual grounding with transformers**](https://openaccess.thecvf.com/content/ICCV2021/papers/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.pdf) | [Code](https://github.com/ashkamath/mdetr) |
+| 2021 | ICCV  | MDETR | [**Transvg: End-to-end Visual Grounding with Transformers**](https://openaccess.thecvf.com/content/ICCV2021/papers/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.pdf) | [Code](https://github.com/ashkamath/mdetr) |
 |  2022    |   ICML    |   OFA    | [**OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**](https://proceedings.mlr.press/v162/wang22al/wang22al.pdf) |   [Code](https://github.com/OFA-Sys/OFA) |   
 |   2022   |    ECCV   |   UniTAB    |     [**UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960514.pdf)                                                                                                                             |         [Code](https://github.com/microsoft/UniTAB)                                   |
 
@@ -217,7 +217,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name   | Paper Title / Paper Link                                                                               | Code / Project                            |
 |------|-------|--------|--------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| 2023 | Arxiv | Shikra | [**Shikra: Unleashing multimodal llm's referential dialogue magic**](https://arxiv.org/pdf/2306.15195) | [Code](https://github.com/shikras/shikra) | 
+| 2023 | Arxiv | Shikra | [**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**](https://arxiv.org/pdf/2306.15195) | [Code](https://github.com/shikras/shikra) | 
 |   2022   |  NeurIPS     |   Chinchilla     |   [**Training Compute-Optimal Large Language Models**](https://proceedings.neurips.cc/paper_files/paper/2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf)                                                                                                     |        N/A                                   |
 |   2019   |    OpenAI   |    GPT-2    |    [**Language Models are Unsupervised Multitask Learners**](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)                                                                                                    |   N/A                                        |
 |   2020   |    NeurIPS   |    GPT-3    |    [**Language Models are Few-Shot Learners**](https://papers.nips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)                                                                                                    |   N/A                                        |
@@ -230,7 +230,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name    | Paper Title / Paper Link                                                                     | Code / Project |
 |------|-------|---------|----------------------------------------------------------------------------------------------|----------------|
-| 2016 | ECCV  | GroundR | [Grounding of textual phrases in images by reconstruction](https://arxiv.org/pdf/1511.03745) | N/A            | 
+| 2016 | ECCV  | GroundR | [**Grounding of Textual Phrases in Images by Reconstruction**](https://arxiv.org/pdf/1511.03745) | N/A            | 
 |  2017    |   CVPR    |    N/A     |      [**Weakly-supervised Visual Grounding of Phrases with Linguistic Structures**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Weakly-Supervised_Visual_Grounding_CVPR_2017_paper.pdf)                                                                                        |        N/A        |
 |      |       |         |                                                                                              |                |
 
@@ -239,7 +239,7 @@ This content corresponds to the main text.
 
 | Year | Venue  | Name       | Paper Title / Paper Link                                                                                                                           | Code / Project |
 |------|--------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| 2023 | ICASSP | PQG-Distil | [Pseudo-Query Generation For Semi-Supervised Visual Grounding With Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10095558) | N/A            | 
+| 2023 | ICASSP | PQG-Distil | [**Pseudo-Query Generation For Semi-Supervised Visual Grounding With Knowledge Distillation**](https://ieeexplore.ieee.org/abstract/document/10095558) | N/A            | 
 |  2021    |   WACV     |      LSEP      |     [**Utilizing Every Image Object for Semi-supervised Phrase Grounding**](https://openaccess.thecvf.com/content/WACV2021/papers/Zhu_Utilizing_Every_Image_Object_for_Semi-Supervised_Phrase_Grounding_WACV_2021_paper.pdf)                                                                                                                                               |     N/A           |
 |   2022   |   CRV     |      SS-Ground      |        [**Semi-supervised Grounding Alignment for Multi-modal Feature Learning**](https://www.cs.ubc.ca/~lsigal/Publications/chou2022crv.pdf)                                                                                                                                            |      N/A          |
 
@@ -248,7 +248,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name     | Paper Title / Paper Link                                                                                                                                                                                              | Code / Project                                 |
 |------|-------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| 2022 | CVPR  | Pseudo-Q | [Pseudo-q: Generating pseudo language queries for visual grounding](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Pseudo-Q_Generating_Pseudo_Language_Queries_for_Visual_Grounding_CVPR_2022_paper.pdf) | [Code](https://github.com/LeapLabTHU/Pseudo-Q) | 
+| 2022 | CVPR  | Pseudo-Q | [**Pseudo-Q: Generating pseudo language queries for visual grounding**](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Pseudo-Q_Generating_Pseudo_Language_Queries_for_Visual_Grounding_CVPR_2022_paper.pdf) | [Code](https://github.com/LeapLabTHU/Pseudo-Q) | 
 |   2018   |    CVPR   |    N/A      |        [**Unsupervised Textual Grounding: Linking Words to Image Concepts**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yeh_Unsupervised_Textual_Grounding_CVPR_2018_paper.pdf)                                                                                                                                                                                                               |                N/A                                |
 |      |       |          |                                                                                                                                                                                                                       |                                                |
 
@@ -257,8 +257,8 @@ This content corresponds to the main text.
 
 | Year | Venue | Name   | Paper Title / Paper Link                                                                                                                                                                                      | Code / Project                                        |
 |------|-------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| 2019 | ICCV  | ZSGNet | [Zero-shot grounding of objects from natural language queries](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sadhu_Zero-Shot_Grounding_of_Objects_From_Natural_Language_Queries_ICCV_2019_paper.pdf) | [Code](https://github.com/TheShadow29/zsgnet-pytorch) |
-| 2022 | ACL   | ReCLIP | [Reclip: A strong zero-shot baseline for referring expression comprehension](https://arxiv.org/pdf/2204.05991)                                                                                                | [Code](https://www.github.com/allenai/reclip)         | 
+| 2019 | ICCV  | ZSGNet | [**Zero-shot Grounding of Objects from Natural Language Queries**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sadhu_Zero-Shot_Grounding_of_Objects_From_Natural_Language_Queries_ICCV_2019_paper.pdf) | [Code](https://github.com/TheShadow29/zsgnet-pytorch) |
+| 2022 | ACL   | ReCLIP | [**ReCLIP: A Strong Zero-shot Baseline for Referring Expression Comprehension**](https://arxiv.org/pdf/2204.05991)                                                                                                | [Code](https://www.github.com/allenai/reclip)         | 
 |  2024    |    Neurocomputing   |   OV-VG     |   [**OV-VG: A Benchmark for Open-Vocabulary Visual Grounding**](https://arxiv.org/pdf/2310.14374)                                                                                                                                                                                                         |            [Code](https://github.com/cv516Buaa/OV-VG)                                              | 
 |      |       |        |                                                                                                                                                                                                               |                                                       |
 
