@@ -239,7 +239,7 @@ This content corresponds to the main text.
 | Year | Venue  | Name       | Paper Title / Paper Link                                                                                                                           | Code / Project |
 |------|--------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
 | 2023 | ICASSP | PQG-Distil | [Pseudo-Query Generation For Semi-Supervised Visual Grounding With Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10095558) | N/A            | 
-|      |        |            |                                                                                                                                                    |                |
+|  2021    |   WACV     |      LSEP      |     [**Utilizing Every Image Object for Semi-supervised Phrase Grounding**](https://openaccess.thecvf.com/content/WACV2021/papers/Zhu_Utilizing_Every_Image_Object_for_Semi-Supervised_Phrase_Grounding_WACV_2021_paper.pdf)                                                                                                                                               |     N/A           |
 |      |        |            |                                                                                                                                                    |                |
 
 
