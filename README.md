@@ -195,13 +195,13 @@ This content corresponds to the main text.
 |------|-------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | 2021 | ICCV  | TransVG   | [**Transvg: End-to-end visual grounding with transformers**](http://openaccess.thecvf.com/content/ICCV2021/html/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.html) | [Code](https://github.com/djiajunustc/TransVG) |
 |      |       |           |                                                                                                                                                                                                  |                                                |
-|      |       |           |                                                                                                                                                                                                  |                                                |
 
 ### C. VLP-based Methods
 
 | Year | Venue | Name    | Paper Title / Paper Link                                                                                     | Code / Project                                |
 |------|-------|---------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
 | 2023 | TMM   | CLIP-VG | [**CLIP-VG: Self-paced Curriculum Adapting of CLIP for Visual Grounding**](https://arxiv.org/pdf/2305.08685) | [Code](https://github.com/linhuixiao/CLIP-VG) |
+|  2023    |   TPAMI    |    D-MDETR       |      [**Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding**](https://arxiv.org/pdf/2209.13959)                                                                                                                                                                                            |                 [Code](https://github.com/MCG-NJU/Dynamic-MDETR)                               |
 |      |       |         |                                                                                                              |                                               |
 |      |       |         |                                                                                                              |                                               |
 
