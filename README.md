@@ -218,7 +218,7 @@ This content corresponds to the main text.
 | Year | Venue | Name   | Paper Title / Paper Link                                                                               | Code / Project                            |
 |------|-------|--------|--------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | 2023 | Arxiv | Shikra | [**Shikra: Unleashing multimodal llm's referential dialogue magic**](https://arxiv.org/pdf/2306.15195) | [Code](https://github.com/shikras/shikra) | 
-|      |       |        |                                                                                                        |                                           |
+|   2022   |  NeurIPS     |   Chinchilla     |   [Training Compute-Optimal Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf)                                                                                                     |        N/A                                   |
 |      |       |        |                                                                                                        |                                           |
 
 
