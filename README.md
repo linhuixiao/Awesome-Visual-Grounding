@@ -422,7 +422,7 @@ This content corresponds to the main text.
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
 | 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
-|      |       |        |                          |                |
+|   2024   |   NeurIPS    |    D$^3$    |         [**Described Object Detection: Liberating Object Detection with Flexible Expressions**](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9fd24fd32eccc14cd3ecd3716a1cbf8-Paper-Conference.pdf)                 |      [Code](https://github.com/shikras/d-cube)          |
 |      |       |        |                          |                |
 
 
