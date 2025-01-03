@@ -230,7 +230,7 @@ This content corresponds to the main text.
 | Year | Venue | Name    | Paper Title / Paper Link                                                                     | Code / Project |
 |------|-------|---------|----------------------------------------------------------------------------------------------|----------------|
 | 2016 | ECCV  | GroundR | [Grounding of textual phrases in images by reconstruction](https://arxiv.org/pdf/1511.03745) | N/A            | 
-|      |       |         |                                                                                              |                |
+|  2017    |   CVPR    |    N/A     |      [**Weakly-supervised Visual Grounding of Phrases with Linguistic Structures**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Weakly-Supervised_Visual_Grounding_CVPR_2017_paper.pdf)                                                                                        |        N/A        |
 |      |       |         |                                                                                              |                |
 
 
