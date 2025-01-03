@@ -209,9 +209,9 @@ This content corresponds to the main text.
 
 | Year | Venue | Name  | Paper Title / Paper Link                                                                                                         | Code / Project                             |
 |------|-------|-------|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| 2021 | ICCV  | MDETR | [**Transvg: End-to-end visual grounding with transformers**](Mdetr-modulated detection for end-to-end multi-modal understanding) | [Code](https://github.com/ashkamath/mdetr) |
+| 2021 | ICCV  | MDETR | [**Transvg: End-to-end visual grounding with transformers**](https://openaccess.thecvf.com/content/ICCV2021/papers/Deng_TransVG_End-to-End_Visual_Grounding_With_Transformers_ICCV_2021_paper.pdf) | [Code](https://github.com/ashkamath/mdetr) |
 |  2022    |   ICML    |   OFA    | [**OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework**](https://proceedings.mlr.press/v162/wang22al/wang22al.pdf) |   [Code](https://github.com/OFA-Sys/OFA) |   
-|      |       |       |                                                                                                                                  |                                            |
+|   2022   |    ECCV   |   UniTAB    |     [**UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960514.pdf)                                                                                                                             |         [Code](https://github.com/microsoft/UniTAB)                                   |
 
 ### E. Grounding Multimodal LLMs
 
