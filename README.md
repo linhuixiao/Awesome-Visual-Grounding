@@ -235,7 +235,7 @@ This content corresponds to the main text.
 |      |       |         |                                                                                              |                |
 
 
-## 1.2 Semi-supervised Setting
+## 1.3 Semi-supervised Setting
 
 | Year | Venue  | Name       | Paper Title / Paper Link                                                                                                                           | Code / Project |
 |------|--------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
@@ -244,32 +244,52 @@ This content corresponds to the main text.
 |   2022   |   CRV     |      SS-Ground      |        [**Semi-supervised Grounding Alignment for Multi-modal Feature Learning**](https://www.cs.ubc.ca/~lsigal/Publications/chou2022crv.pdf)                                                                                                                                            |      N/A          |
 
 
-## 1.3 Unsupervised Setting
+## 1.4 Unsupervised Setting
 
 | Year | Venue | Name     | Paper Title / Paper Link                                                                                                                                                                                              | Code / Project                                 |
 |------|-------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | 2022 | CVPR  | Pseudo-Q | [**Pseudo-Q: Generating pseudo language queries for visual grounding**](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Pseudo-Q_Generating_Pseudo_Language_Queries_for_Visual_Grounding_CVPR_2022_paper.pdf) | [Code](https://github.com/LeapLabTHU/Pseudo-Q) | 
 |   2018   |    CVPR   |    N/A      |        [**Unsupervised Textual Grounding: Linking Words to Image Concepts**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yeh_Unsupervised_Textual_Grounding_CVPR_2018_paper.pdf)                                                                                                                                                                                                               |                N/A                                |
-|      |       |          |                                                                                                                                                                                                                       |                                                |
+| 2024 | ICME | VG-annotator | [**VG-Annotator: Vision-Language Models as Query Annotators for Unsupervised Visual Grounding**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10688227) |    N/A      |
+| 2023 | TMM | CLIPREC | [**CLIPREC: Graph-Based Domain Adaptive Network for Zero-Shot Referring Expression Comprehension**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10191020) |    N/A      |
 
 
-## 1.4 Zero-shot Setting
 
-| Year | Venue | Name   | Paper Title / Paper Link                                                                                                                                                                                      | Code / Project                                        |
-|------|-------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+
+
+## 1.5 Zero-shot Setting
+
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
 | 2019 | ICCV  | ZSGNet | [**Zero-shot Grounding of Objects from Natural Language Queries**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sadhu_Zero-Shot_Grounding_of_Objects_From_Natural_Language_Queries_ICCV_2019_paper.pdf) | [Code](https://github.com/TheShadow29/zsgnet-pytorch) |
 | 2022 | ACL   | ReCLIP | [**ReCLIP: A Strong Zero-shot Baseline for Referring Expression Comprehension**](https://arxiv.org/pdf/2204.05991)                                                                                                | [Code](https://www.github.com/allenai/reclip)         | 
 |  2024    |    Neurocomputing   |   OV-VG     |   [**OV-VG: A Benchmark for Open-Vocabulary Visual Grounding**](https://arxiv.org/pdf/2310.14374)                                                                                                                                                                                                         |            [Code](https://github.com/cv516Buaa/OV-VG)                                              | 
-|      |       |        |                                                                                                                                                                                                               |                                                       |
+| 2023 | TMM | CLIPREC | [**CLIPREC: Graph-Based Domain Adaptive Network for Zero-Shot Referring Expression Comprehension**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10191020) |    N/A      |
+| 2024 | Neurocomputing | N/A | [**Zero-shot visual grounding via coarse-to-fine representation learning**](https://www.sciencedirect.com/science/article/pii/S0925231224013924) |   [Code](https://github.com/TheShadow29/zsgnet-pytorch.git)    |
+| 2022 | Arxiv | adapting-CLIP | [**Adapting CLIP For Phrase Localization Without Further Training**](https://arxiv.org/pdf/2204.03647) |   [Code](https://github.com/pals-ttic/adapting-CLIP)    |
+| 2023 | ICLR | ChatRef | [**Language models can do zero-shot visual referring expression comprehension**](https://openreview.net/pdf?id=F7mdgA7c2zD) |   [Code](https://github.com/xiuchao/LLM4ReC)    |
+| 2024 | AI Open | Cpt | [**CPT: Colorful Prompt Tuning for pre-trained vision-language models**](https://www.sciencedirect.com/science/article/pii/S2666651024000056) |   [Code](https://github.com/thunlp/CPT)    |
+| 2021 | CVPR | VinVL | [**VinVL: Revisiting Visual Representations in Vision-Language Models**](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_VinVL_Revisiting_Visual_Representations_in_Vision-Language_Models_CVPR_2021_paper.pdf) |   [Code](https://github.com/pzzhang/VinVL)    |
+| 2024 | CVPR | VR-VLA | [**Zero-shot referring expression comprehension via structural similarity between images and captions**](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_Zero-shot_Referring_Expression_Comprehension_via_Structural_Similarity_Between_Images_and_CVPR_2024_paper.pdf) |   [Code](https://github.com/Show-han/Zeroshot_REC)    |
+| 2024 | AAAI | GroundVLP | [**Groundvlp: Harnessing zeroshot visual grounding from vision-language pre-training and openvocabulary object detection**](https://ojs.aaai.org/index.php/AAAI/article/view/28278/28547) |   [Code](https://github.com/om-ai-lab/GroundVLP)    |
+| 2024 | TCSVT | MCCE-REC | [**MCCE-REC: MLLM-driven Cross-modal Contrastive Entropy Model for Zero-shot Referring Expression Comprehension**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10681116) |   N/A   |
+| 2024 | ECCV | CRG | [**Contrastive Region Guidance: Improving Grounding in Vision-Language Models Without Training**](https://link.springer.com/chapter/10.1007/978-3-031-72986-7_12) |   [Code](https://contrastive-region-guidance.github.io/)   |
+| 2024 | IJCNN | PSAIR | [**Psair: A neurosymbolic approach to zero-shot visual grounding**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10649948) |   N/A   |
+| 2024 | TPAMI | TransCP | [**Context disentangling and prototype inheriting for robust visual grounding**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10649948) |  [Code](https://github.com/WayneTomas/TransCP)   |
+| 2024 | TPAMI | N/A | [**Towards Open Vocabulary Learning: A Survey**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10420487) |  [Code](https://github.com/jianzongwu/Awesome-Open-Vocabulary)   |
+| 2024 | CVPR |  GEM | [**Grounding everything: Emerging localization properties in vision-language transformers**](https://openaccess.thecvf.com/content/CVPR2024/papers/Bousselham_Grounding_Everything_Emerging_Localization_Properties_in_Vision-Language_Transformers_CVPR_2024_paper.pdf) |  [Code](https://github.com/WalBouss/GEM)   |
+| 2023 | Arxiv |  GRILL | [**Grill: Grounded vision-language pre-training via aligning text and image regions**](https://arxiv.org/pdf/2305.14676v1) | N/A  |
 
 
-## 1.5 Multi-task Setting
+
+
+## 1.6 Multi-task Setting
 
 ### A. REC with REG Multi-task Setting
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
-|      |       |        |                          |                |
+| 2024 | Arxiv |  VLM-VG | [**Learning visual grounding from generative vision and language model**](https://arxiv.org/pdf/2407.14563) |  N/A   |
+| 2024 | Arxiv |  EEVG | [**An efficient and effective transformer decoder-based framework for multi-task visual grounding**](https://arxiv.org/pdf/2408.01120) |  [Code](https://github.com/chenwei746/EEVG)   |
 |      |       |        |                          |                |
 
 
@@ -288,7 +308,7 @@ This content corresponds to the main text.
 |      |       |        |                          |                |
 
 
-## 1.6 Generalized Visual Grounding
+## 1.7 Generalized Visual Grounding
 
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
@@ -318,7 +338,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+| 2023 | TMM | CLIPREC | [**CLIPREC: Graph-Based Domain Adaptive Network for Zero-Shot Referring Expression Comprehension**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10191020) |    N/A      |
 |      |       |        |                          |                |
 |      |       |        |                          |                |
 
@@ -413,7 +433,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
-| 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
+| 2024 | Arxiv |  VLM-VG | [**Learning visual grounding from generative vision and language model**](https://arxiv.org/pdf/2407.14563) |  N/A   |
 |      |       |        |                          |                |
 |      |       |        |                          |                |
 
