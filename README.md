@@ -276,8 +276,7 @@ This content corresponds to the main text.
 | 2024 | ECCV | CRG | [**Contrastive Region Guidance: Improving Grounding in Vision-Language Models Without Training**](https://link.springer.com/chapter/10.1007/978-3-031-72986-7_12) |   [Code](https://contrastive-region-guidance.github.io/)   |
 | 2024 | IJCNN | PSAIR | [**Psair: A neurosymbolic approach to zero-shot visual grounding**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10649948) |   N/A   |
 | 2024 | TPAMI | TransCP | [**Context disentangling and prototype inheriting for robust visual grounding**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10649948) |  [Code](https://github.com/WayneTomas/TransCP)   |
-| 2024 | TPAMI | N/A | [**Towards Open Vocabulary Learning: A Survey**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10420487) |  [Code](https://github.com/jianzongwu/Awesome
-Open-Vocabulary)   |
+| 2024 | TPAMI | N/A | [**Towards Open Vocabulary Learning: A Survey**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10420487) |  [Code](https://github.com/jianzongwu/Awesome-Open-Vocabulary)   |
 | 2024 | CVPR |  GEM | [**Grounding everything: Emerging localization properties in vision-language transformers**](https://openaccess.thecvf.com/content/CVPR2024/papers/Bousselham_Grounding_Everything_Emerging_Localization_Properties_in_Vision-Language_Transformers_CVPR_2024_paper.pdf) |  [Code](https://github.com/WalBouss/GEM)   |
 | 2023 | Arxiv |  GRILL | [**Grill: Grounded vision-language pre-training via aligning text and image regions**](https://arxiv.org/pdf/2305.14676v1) | N/A  |
 
