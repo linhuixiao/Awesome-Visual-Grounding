@@ -259,8 +259,8 @@ This content corresponds to the main text.
 
 ## 1.5 Zero-shot Setting
 
-| Year | Venue | Name   | Paper Title / Paper Link                                                                                                                                                                                      | Code / Project                                        |
-|------|-------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
 | 2019 | ICCV  | ZSGNet | [**Zero-shot Grounding of Objects from Natural Language Queries**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sadhu_Zero-Shot_Grounding_of_Objects_From_Natural_Language_Queries_ICCV_2019_paper.pdf) | [Code](https://github.com/TheShadow29/zsgnet-pytorch) |
 | 2022 | ACL   | ReCLIP | [**ReCLIP: A Strong Zero-shot Baseline for Referring Expression Comprehension**](https://arxiv.org/pdf/2204.05991)                                                                                                | [Code](https://www.github.com/allenai/reclip)         | 
 |  2024    |    Neurocomputing   |   OV-VG     |   [**OV-VG: A Benchmark for Open-Vocabulary Visual Grounding**](https://arxiv.org/pdf/2310.14374)                                                                                                                                                                                                         |            [Code](https://github.com/cv516Buaa/OV-VG)                                              | 
