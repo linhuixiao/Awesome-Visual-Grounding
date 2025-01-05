@@ -398,7 +398,8 @@ This content corresponds to the main text.
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
 | 2023 | Arxiv | Shikra | []()                     | [Code]()       | 
-|      |       |        |                          |                |
+| 2022 | CVPR | 3D-SPS | [3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection](https://openaccess.thecvf.com/content/CVPR2022/html/Luo_3D-SPS_Single-Stage_3D_Visual_Grounding_via_Referred_Point_Progressive_Selection_CVPR_2022_paper.html) | [Code](https://github.com/fjhzhixi/3D-SPS)|
+| 2021 | ACMMM | TransRefer3D | [TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding](https://arxiv.org/abs/2108.02388) | [Code](https://github.com/luo-junyu/TransRefer3D) |
 |      |       |        |                          |                |
 
 ## 3.6 Video Object Grounding
