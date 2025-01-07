@@ -95,7 +95,7 @@ with an established foundation, enabling them to navigate and stay up-to-date wi
 
 <p align="center"> <img src='figs/paper_structure.jpg' align="center" width="100%"> </p>
 
-**<p align="center"> Our Paper Structure  </p>**
+**<p align="center"> Our Paper Structure  </p>** 
 
 
 ## Citation
