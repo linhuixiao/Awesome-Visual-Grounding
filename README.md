@@ -183,7 +183,11 @@ This content corresponds to the main text.
 | Year | Venue | Work Name | Paper Title / Paper Link                                     | Code / Project                                           |
 | ---- | ----- | --------- | ------------------------------------------------------------ | -------------------------------------------------------- |
 | 2016 | CVPR  | NMI       | [**Generation and Comprehension of Unambiguous Object Descriptions**](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | [Code](https://github.com/mjhucla/Google_Refexp_toolbox) |
-|      |       |           |                                                              | Project                                                  |
+| 2016 | ECCV  | SNLE       | [**Segmentation from Natural Language Expressions**](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_7) | N/A 
+| 2018 | TPAMI  | Similarity Network | [**Learning Two-Branch Neural Networks for Image-Text Matching Tasks**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8268651) | N/A |
+| 2018 | ECCV  |  CITE      | [**Conditional Image-Text Embedding Networks**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Bryan_Plummer_Conditional_Image-Text_Embedding_ECCV_2018_paper.pdf) | [Code](https://github.com/BryanPlummer/cite) |
+| 2018 | IJCAI  |  DDPN      | [**Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding**](https://www.ijcai.org/proceedings/2018/0155.pdf) | [Code](https://github.com/XiangChenchao/DDPN) |
+|      |       |           |                                                              |                                                  |
 |      |       |           |                                                              |                                                          |
 
 
