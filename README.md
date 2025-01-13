@@ -54,7 +54,13 @@ We will add the missing papers to this repo as soon as possible.
 
 - **Next version of our survey is expected to update in:** **June 1, 2025**.
 
-- 🔥 **We made our paper public and created this repository on** **December 26, 2024**.
+- 🔥 **We made our survey paper public and created this repository on** **December 28, 2024**.
+
+- **Our grounding work OneRef ([Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef)) has acceptance by top conference NeurIPS 2024 in October 2024!**
+
+- **Our grounding work HiVG ([Paper](https://openreview.net/pdf?id=NMMyGy1kKZ), [Code](https://github.com/linhuixiao/HiVG)) has acceptance by top conference ACM MM 2024 in July 2024!**
+
+- **Our grounding work CLIP-VG ([Paper](https://arxiv.org/pdf/2305.08685), [Code](https://github.com/linhuixiao/CLIP-VG)) has acceptance by top journal TMM in September 2023!**
 
 
 
