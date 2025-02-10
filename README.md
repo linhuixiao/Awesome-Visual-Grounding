@@ -710,7 +710,7 @@ This content corresponds to the main text.
 | 2020 | ACL  | Refer360 | [**Refer360: A referring expression recognition dataset in 360 images**](https://aclanthology.org/2020.acl-main.644.pdf)  | [Code]( https://github.com/volkancirik/refer360)       |
 | 2021 | CVPR  | CC12M | [**Conceptual 12m: Pushing web-scale image-text pre-training to recognize long-tail visual concepts**](https://openaccess.thecvf.com/content/CVPR2021/html/Changpinyo_Conceptual_12M_Pushing_Web-Scale_Image-Text_Pre-Training_To_Recognize_Long-Tail_Visual_CVPR_2021_paper.html)  | [Code]( https://github.com/google-research-datasets/conceptual-12m)       | 
 | 2023     |    ICCV   |   SAM     |   [Segment Anything](https://arxiv.org/pdf/2304.02643)   | [Code](https://github.com/facebookresearch/segment-anything)    |
-
+| 2024     |    EMNLP   |   FineCops-Ref     |   [FineCops-Ref: A new Dataset and Task for Fine-Grained Compositional Referring Expression Comprehension](https://arxiv.org/abs/2409.14750)   | [Code](https://github.com/liujunzhuo/FineCops-Ref)    |
 
 ## 3.3 Dataset for the Newly Curated Scenarios
 
