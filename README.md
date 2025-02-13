@@ -38,6 +38,13 @@
 
 This repo is used for recording, tracking, and benchmarking several recent visual grounding methods to supplement our [Grounding Survey](https://arxiv.org/pdf/2412.20206). 
 
+<h3 align="left">
+Links: <a href="https://arxiv.org/abs/2412.20206">ArXiv</a>,
+<a href="https://mp.weixin.qq.com/s/I0SNcv9RypSV5Fp9sh4bLQ">《机器之心》中文解读</a>
+</h3>
+
+**Please leave a <font color='orange'>STAR ⭐</font> if you like this project!**
+
 ### 🔥 Add Your Paper in our Repo and Survey!
 
 - If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/linhuixiao/Awesome-Visual-Grounding/pulls).
@@ -78,7 +85,7 @@ We will add the missing papers to this repo as soon as possible.
 
 # Introduction
 
-**we are the first survey in the past five years to systematically track and summarize the development of visual 
+**We are the first survey in the past five years to systematically track and summarize the development of visual 
 grounding over the last decade.** By extracting common technical details, this review encompasses the most representative
 work in each subtopic. 
 
@@ -150,7 +157,7 @@ This content corresponds to the main text.
     - [C. Other Multi-task Setting](#c-other-multi-task-setting)
   - [1.7 Generalized Visual Grounding](#17-generalized-visual-grounding)
 - [2. Advanced Topics](#2-advanced-topics)
-  - [2.1 NLP Language Structure Parsing](#21-nlp-language-structure-parsing)
+  - [2.1 NLP Language Structure Parsing in Grounding](#21-nlp-language-structure-parsing-in-visual-grounding)
   - [2.2 Spatial Relation and Graph Networks](#22-spatial-relation-and-graph-networks)
   - [2.3 Modular Grounding](#23-modular-grounding)
 - [3. Applications](#3-applications)
