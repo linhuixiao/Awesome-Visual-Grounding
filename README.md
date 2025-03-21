@@ -52,7 +52,7 @@ We will add the missing papers to this repo as soon as possible.
 
 - You are welcome to give us an issue or PR (pull request) for your visual grounding related works!
 
-- **Note that:** Due to the huge paper in Arxiv, we are sorry to cover all in our survey. You can directly present a PR into this repo and we will record it for next version update of our survey.
+- **Note that:** Due to the huge paper in Arxiv, we are sorry to cover all in our survey. **You can directly present a PR into this repo** and we will record it for next version update of our survey.
 
 
 
