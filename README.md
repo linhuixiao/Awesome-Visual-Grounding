@@ -285,6 +285,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name   | Paper Title / Paper Link                                                                               | Code / Project                            |
 |------|-------|--------|--------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| 2024 | Arxiv | Inst-IT | [**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**](https://arxiv.org/abs/2412.03565) | [Code](https://github.com/inst-it/inst-it) / [Project](https://inst-it.github.io/) |
 | 2023 | Arxiv | Shikra | [**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**](https://arxiv.org/pdf/2306.15195) | [Code](https://github.com/shikras/shikra) | 
 |   2022   |  NeurIPS     |   Chinchilla     |   [**Training Compute-Optimal Large Language Models**](https://proceedings.neurips.cc/paper_files/paper/2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf)                                                                                                     |        N/A                                   |
 |   2019   |    OpenAI   |    GPT-2    |    [**Language Models are Unsupervised Multitask Learners**](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)                                                                                                    |   N/A                                        |
@@ -740,6 +741,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
+| 2024 | Arxiv | Inst-IT | [**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**](https://arxiv.org/abs/2412.03565) | [Code](https://github.com/inst-it/inst-it) / [Project](https://inst-it.github.io/)|
 | 2024 |NeurIPS  | HC-RefLoCo | [**A Large-Scale Human-Centric Benchmark for Referring Expression Comprehension in the LMM Era**](https://neurips.cc/virtual/2024/poster/97836)  | [Code](https://github.com/ZhaoJingjing713/HC-RefLoCo)       | 
 | 2024 | ECCV | GVC | [**Llava-grounding: Grounded visual chat with large multimodal models**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05918.pdf)  | N/A      | 
 |2024|ICLR|KOSMOS-2|[**GROUNDING MULTIMODAL LARGE LANGUAGE MODELS TO THE WORLD**](https://openreview.net/pdf?id=lLmqxkfSIw)|[Code](https://github.com/microsoft/unilm/tree/master/kosmos-2)|
