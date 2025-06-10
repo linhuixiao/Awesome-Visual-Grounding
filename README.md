@@ -169,9 +169,9 @@ This content corresponds to the main text.
   - [3.6 Video Object Grounding](#36-video-object-grounding)
   - [3.7 Robotic and Multimodal Agent Applications](#37-robotic-and-multimodal-agent-applications)
 - [4. Datasets and Benchmarks](#4-datasets-and-benchmarks)
-  - [3.1 The Five Datasets for Classical Visual Grounding](#31-the-five-datasets-for-classical-visual-grounding)
-  - [3.2 The Other Datasets for Classical Visual Grounding](#32-the-other-datasets-for-classical-visual-grounding)
-  - [3.3 Dataset for the Newly Curated Scenarios](#33-dataset-for-the-newly-curated-scenarios)
+  - [4.1 The Five Datasets for Classical Visual Grounding](#41-the-five-datasets-for-classical-visual-grounding)
+  - [4.2 The Other Datasets for Classical Visual Grounding](#42-the-other-datasets-for-classical-visual-grounding)
+  - [4.3 Dataset for the Newly Curated Scenarios](#43-dataset-for-the-newly-curated-scenarios)
     - [A. Dataset for Generalized Visual Grounding](#a-dataset-for-generalized-visual-grounding)
     - [B. Datasets and Benchmarks for GMLLMs](#b-datasets-and-benchmarks-for-gmllms)
     - [C. Dataset for Other Newly Curated Scenarios](#c-dataset-for-other-newly-curated-scenarios)
@@ -676,12 +676,16 @@ This content corresponds to the main text.
 | 2024  | arxiv |  HiFi-CS  |[Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models](https://arxiv.org/pdf/2409.10419)  | N/A  |
 |   2025     | ECCV  | Ferret-UI  | [Grounded Mobile UI Understanding with Multimodal LLMs](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08095.pdf)  | N/A  |
 
-
+## 3.8 Multi-image Grounding
+| Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
+|------|-------|--------|--------------------------|----------------|
+|   2025   |  ACL     |   Migician     |  [**Migician: Revealing the Magic of Free-Form Multi-Image Grounding in Multimodal Large Language Models**](https://arxiv.org/abs/2501.05767) |     [Code](https://github.com/thunlp/Migician)/ [Project](https://migician-vg.github.io/)  |
+|   2025   |  arxiv     |   UniVG-R1     |  [**UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning**](https://arxiv.org/abs/2505.14231) |     [Code](https://github.com/AMAP-ML/UniVG-R1)/ [Project](https://amap-ml.github.io/UniVG-R1-page/) |
 
 
 # 4. Datasets and Benchmarks
 
-## 3.1 The Five Datasets for Classical Visual Grounding
+## 4.1 The Five Datasets for Classical Visual Grounding
 
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
@@ -702,7 +706,7 @@ This content corresponds to the main text.
 |2025 | arxiv |T-Rex2 | [T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy](https://arxiv.org/pdf/2403.14610) |[Code](https://github.com/yellowfish82/T-Rex2)|
 
 
-## 3.2 The Other Datasets for Classical Visual Grounding
+## 4.2 The Other Datasets for Classical Visual Grounding
 
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
@@ -720,7 +724,7 @@ This content corresponds to the main text.
 | 2023     |    ICCV   |   SAM     |   [Segment Anything](https://arxiv.org/pdf/2304.02643)   | [Code](https://github.com/facebookresearch/segment-anything)    |
 | 2024     |    EMNLP   |   FineCops-Ref     |   [FineCops-Ref: A new Dataset and Task for Fine-Grained Compositional Referring Expression Comprehension](https://arxiv.org/abs/2409.14750)   | [Code](https://github.com/liujunzhuo/FineCops-Ref)    |
 
-## 3.3 Dataset for the Newly Curated Scenarios
+## 4.3 Dataset for the Newly Curated Scenarios
 
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
@@ -752,7 +756,7 @@ This content corresponds to the main text.
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
 | 2024 | CVPR | GigaGround | [**When visual grounding meets gigapixel-level large-scale scenes: Benchmark and approach**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_When_Visual_Grounding_Meets_Gigapixel-level_Large-scale_Scenes_Benchmark_and_Approach_CVPR_2024_paper.pdf) | [Code](https://www.gigavision.cn/)|
-|      |       |        |                          |                |
+| 2025 | ACL   |    MGrounding-630k/MIG-Bench    | [**Migician: Revealing the Magic of Free-Form Multi-Image Grounding in Multimodal Large Language Models**](https://arxiv.org/abs/2501.05767) |     [Code](https://github.com/thunlp/Migician)/ [Project](https://migician-vg.github.io/) |
 |      |       |        |                          |                |
 
 
@@ -765,6 +769,7 @@ This content corresponds to the main text.
 | 2024 | CVPR  | RefCount  |    [**Referring expression counting**](https://openaccess.thecvf.com/content/CVPR2024/papers/Dai_Referring_Expression_Counting_CVPR_2024_paper.pdf) |      [Code](https://github.com/sydai/referring-expression-counting)     | 
 | 2024 | CVPR | GigaGround | [**When visual grounding meets gigapixel-level large-scale scenes: Benchmark and approach**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_When_Visual_Grounding_Meets_Gigapixel-level_Large-scale_Scenes_Benchmark_and_Approach_CVPR_2024_paper.pdf) | [Code](https://www.gigavision.cn/)|
 | 2022 | CVPR | GLIP | [**Grounded language-image pretraining**](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf) | [Code](https://github.com/microsoft/GLIP.) | 
+|   2025   |  ACL     |   Migician     |  [**Migician: Revealing the Magic of Free-Form Multi-Image Grounding in Multimodal Large Language Models**](https://arxiv.org/abs/2501.05767) |     [Code](https://github.com/thunlp/Migician)/ [Project](https://migician-vg.github.io/)  |
 |      |       |        |                          |                |
 
 
