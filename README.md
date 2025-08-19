@@ -63,11 +63,11 @@ We will add the missing papers to this repo as soon as possible.
 
 - 🔥 **We made our survey paper public and created this repository on** **December 28, 2024**.
 
-- **Our one-tower grounding work OneRef ([Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef)) has accepted by top conference NeurIPS 2024 in October 2024!**
+- **Our one-tower grounding work OneRef ([Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef)) has been accepted by top conference NeurIPS 2024 in October 2024!**
 
-- **Our advanced grounding work HiVG ([Paper](https://openreview.net/pdf?id=NMMyGy1kKZ), [Code](https://github.com/linhuixiao/HiVG)) has accepted by top conference ACM MM 2024 in July 2024!**
+- **Our advanced grounding work HiVG ([Paper](https://openreview.net/pdf?id=NMMyGy1kKZ), [Code](https://github.com/linhuixiao/HiVG)) has been accepted by top conference ACM MM 2024 in July 2024!**
 
-- **Our grounding work CLIP-VG ([Paper](https://arxiv.org/pdf/2305.08685), [Code](https://github.com/linhuixiao/CLIP-VG)) has accepted by top journal TMM in September 2023!**
+- **Our grounding work CLIP-VG ([Paper](https://arxiv.org/pdf/2305.08685), [Code](https://github.com/linhuixiao/CLIP-VG)) has been accepted by top journal TMM in September 2023!**
 
 
 
