@@ -63,11 +63,11 @@ We will add the missing papers to this repo as soon as possible.
 
 - 🔥 **We made our survey paper public and created this repository on** **December 28, 2024**.
 
-- **Our grounding work OneRef ([Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef)) has acceptance by top conference NeurIPS 2024 in October 2024!**
+- **Our one-tower grounding work OneRef ([Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef)) has accepted by top conference NeurIPS 2024 in October 2024!**
 
-- **Our grounding work HiVG ([Paper](https://openreview.net/pdf?id=NMMyGy1kKZ), [Code](https://github.com/linhuixiao/HiVG)) has acceptance by top conference ACM MM 2024 in July 2024!**
+- **Our advanced grounding work HiVG ([Paper](https://openreview.net/pdf?id=NMMyGy1kKZ), [Code](https://github.com/linhuixiao/HiVG)) has accepted by top conference ACM MM 2024 in July 2024!**
 
-- **Our grounding work CLIP-VG ([Paper](https://arxiv.org/pdf/2305.08685), [Code](https://github.com/linhuixiao/CLIP-VG)) has acceptance by top journal TMM in September 2023!**
+- **Our grounding work CLIP-VG ([Paper](https://arxiv.org/pdf/2305.08685), [Code](https://github.com/linhuixiao/CLIP-VG)) has accepted by top journal TMM in September 2023!**
 
 
 
@@ -805,6 +805,7 @@ Any kind discussions are welcomed!
 
 
 ## Star History
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=linhuixiao/Awesome-Visual-Grounding&type=Date)](https://star-history.com/#linhuixiao/Awesome-Visual-Grounding&Date)
 
