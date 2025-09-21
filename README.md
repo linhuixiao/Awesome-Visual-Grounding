@@ -757,6 +757,8 @@ This content corresponds to the main text.
 |------|-------|--------|--------------------------|----------------|
 | 2024 | CVPR | GigaGround | [**When visual grounding meets gigapixel-level large-scale scenes: Benchmark and approach**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_When_Visual_Grounding_Meets_Gigapixel-level_Large-scale_Scenes_Benchmark_and_Approach_CVPR_2024_paper.pdf) | [Code](https://www.gigavision.cn/)|
 | 2025 | ACL   |    MGrounding-630k/MIG-Bench    | [**Migician: Revealing the Magic of Free-Form Multi-Image Grounding in Multimodal Large Language Models**](https://arxiv.org/abs/2501.05767) |     [Code](https://github.com/thunlp/Migician)/ [Project](https://migician-vg.github.io/) |
+|2025 | Arxiv   |    PixMMVP, PixCV-Bench (Pixel-level VG)    | [**PixFoundation: Are We Heading in the Right Direction with Pixel-level Vision Foundation Models?**](https://arxiv.org/pdf/2502.04192) |     [Code](https://github.com/MSiam/PixFoundation/)/ [Project](https://msiam.github.io/PixFoundationSeries/) |
+|2025 | Arxiv   |    MoCentric-Bench (Pixel-level VG)   | [**PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding?**](https://arxiv.org/abs/2509.02807) |     [Code](https://github.com/MSiam/PixFoundation-2.0/)/ [Project](https://msiam.github.io/PixFoundationSeries/) |
 |      |       |        |                          |                |
 
 
