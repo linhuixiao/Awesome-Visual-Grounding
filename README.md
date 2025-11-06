@@ -59,7 +59,7 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🔥 New
 
-- 🔥🔥🔥 **Our Grounding survey has been accepted by TPAMI in October 30, 2025 !!!**
+- 🔥🔥🔥 **Our Grounding survey has been accepted by TPAMI on October 30, 2025 !!!**
 
 - 🔥 **We made our survey paper public and created this repository on** **December 28, 2024**.
 
