@@ -59,11 +59,11 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🔥 New
 
-- **Next version of our survey is expected to update in:** **June 1, 2025**.
+- 🔥🔥🔥 **Our Grounding survey has been accepted by TPAMI in October 30, 2025 !!!**
 
 - 🔥 **We made our survey paper public and created this repository on** **December 28, 2024**.
 
-- **Our one-tower grounding work OneRef ([Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef)) has been accepted by top conference NeurIPS 2024 in October 2024!**
+- **Our advanced one-tower grounding work OneRef ([Paper](https://openreview.net/pdf?id=siPdcro6uD), [Code](https://github.com/linhuixiao/OneRef)) has been accepted by top conference NeurIPS 2024 in October 2024!**
 
 - **Our advanced grounding work HiVG ([Paper](https://openreview.net/pdf?id=NMMyGy1kKZ), [Code](https://github.com/linhuixiao/HiVG)) has been accepted by top conference ACM MM 2024 in July 2024!**
 
