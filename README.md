@@ -4,7 +4,7 @@
 <p align="center">
   <h1 align="center">Towards Visual Grounding: A Survey</h1>
   <p align="center">
-    <b> TPAMI under review, 2024 </b>
+    <b> Accepted by TPAMI, 2025 </b>
     <br />
     <a href="https://scholar.google.com.hk/citations?user=4rTE4ogAAAAJ&hl=zh-CN&oi=sra"><strong> Linhui Xiao </strong></a>
     ·
