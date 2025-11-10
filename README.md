@@ -17,6 +17,9 @@
     <a href="https://scholar.google.com.hk/citations?user=hI9NRDkAAAAJ&hl=zh-CN"><strong>Changsheng Xu</strong></a>
   </p>
   <p align="center">
+    <a href='https://ieeexplore.ieee.org/document/11235566'>
+      <img src='https://img.shields.io/badge/TPAMI-PDF-blue?style=flat&logo=ieee&logoColor=blue' alt='TPAMI'>
+    </a>
     <a href='https://arxiv.org/abs/2412.20206'>
       <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
@@ -39,7 +42,7 @@
 This repo is used for recording, tracking, and benchmarking several recent visual grounding methods to supplement our [Grounding Survey](https://arxiv.org/pdf/2412.20206). 
 
 <h3 align="left">
-Links: <a href="https://arxiv.org/abs/2412.20206">ArXiv</a>,
+Links: <a href="https://ieeexplore.ieee.org/document/11235566">TPAMI</a>, <a href="https://arxiv.org/abs/2412.20206">ArXiv</a>,
 <a href="https://mp.weixin.qq.com/s/I0SNcv9RypSV5Fp9sh4bLQ">《机器之心》中文解读</a>
 </h3>
 
@@ -59,7 +62,7 @@ We will add the missing papers to this repo as soon as possible.
 
 ### 🔥 New
 
-- 🔥🔥🔥 **Our Grounding survey has been accepted by TPAMI on October 30, 2025 !!!**
+- 🔥🔥🔥 **Our Grounding survey ([TPAMI](https://doi.org/10.1109/TPAMI.2025.3630635), [Arxiv](https://arxiv.org/abs/2412.20206), [Project](https://github.com/linhuixiao/Awesome-Visual-Grounding)) has been accepted by TPAMI on October 30, 2025 !!!**
 
 - 🔥 **We made our survey paper public and created this repository on** **December 28, 2024**.
 
