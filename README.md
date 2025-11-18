@@ -119,14 +119,15 @@ with an established foundation, enabling them to navigate and stay up-to-date wi
 If you find our work helpful for your research, please consider citing the following BibTeX entry.   
 
 ```bibtex
-@misc{xiao2024visualgroundingsurvey,
+@article{xiao2025groundingsurvey,
       title={Towards Visual Grounding: A Survey}, 
       author={Linhui Xiao and Xiaoshan Yang and Xiangyuan Lan and Yaowei Wang and Changsheng Xu},
-      year={2024},
-      eprint={2412.20206},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.20206}, 
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+      year={2025},
+      volume={1},
+      number={1},
+      pages={1-20},
+      doi={10.1109/TPAMI.2025.3630635}
 }
 ```
 **It should be noted that**, due to the typesetting restrictions of the journal, there are small differences in the 
