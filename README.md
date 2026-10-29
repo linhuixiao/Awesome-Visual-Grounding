@@ -619,6 +619,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name   | Paper Title / Paper Link | Code / Project |
 |------|-------|--------|--------------------------|----------------|
+| 2026 | Remote Sensing | OBB-PBD | [OBB-PBD: Extending Parallel Box Decoding to Oriented Bounding Boxes for Referring Expression Grounding in Aerial Imagery](https://doi.org/10.3390/rs18203535) | [code](https://github.com/ce-dric/OBB-PBD) |
 | 2024 | TGRS | Rrsis |[“Rrsis: Referring remote sensing image segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10458079) | [code](https://gitlab.lrz.de/ai4eo/reasoning/rrsis) |
 |2024 | TGRS |  LQVG | [Language query based transformer with multi-scale cross-modal alignment for visual grounding on remote sensing images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10542207) | [code](https://github.com/LANMNG/LQVG) |
 |2024 | TGRS |RINet | [A regionally indicated visual grounding network for remote sensing images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10741531)| [code](https://github.com/KevinDaldry/RINet) |
