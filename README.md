@@ -289,6 +289,7 @@ This content corresponds to the main text.
 
 | Year | Venue | Name   | Paper Title / Paper Link                                                                               | Code / Project                            |
 |------|-------|--------|--------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| 2026 | arXiv | MJev-Spatial | [**MJev-Spatial: System One Spatial Intelligence via Native Attention Matching**](https://arxiv.org/abs/2610.22276) | [Code](https://github.com/Fr0zenCrane/MJev-Spatial) |
 | 2026 | arXiv | Jag | [**Jag: Direct Box Prediction for Efficient Visual Grounding**](https://arxiv.org/abs/2610.13239) | [Code](https://github.com/xyzzzh/Jag) / [Project](https://xyzzzh.github.io/Jag/) |
 | 2024 | Arxiv | Inst-IT | [**Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning**](https://arxiv.org/abs/2412.03565) | [Code](https://github.com/inst-it/inst-it) / [Project](https://inst-it.github.io/) |
 | 2023 | Arxiv | Shikra | [**Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic**](https://arxiv.org/pdf/2306.15195) | [Code](https://github.com/shikras/shikra) | 
